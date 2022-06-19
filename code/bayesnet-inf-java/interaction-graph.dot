@@ -1,0 +1,5 @@
+graph graphname {
+	c
+	b -- d
+	a
+}

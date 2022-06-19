@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FactorEliminationTest.testFE1" type="JUnit" factoryName="JUnit">
+    <module name="inf.test" />
+    <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" value="FactorEliminationTest" />
+    <option name="METHOD_NAME" value="testFE1" />
+    <option name="TEST_OBJECT" value="method" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

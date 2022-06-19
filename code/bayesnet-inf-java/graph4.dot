@@ -1,0 +1,16 @@
+digraph graphname {
+	d2 -> e2
+	d2 -> e3
+	d1 -> e1
+	e3 -> f1
+	e3 -> a
+	e2 -> f2
+	e1 -> f1
+	c1 -> d1
+	c1 -> d2
+	b -> c1
+	b -> d2
+	a -> b
+	f2
+	f1
+}

@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ItemsetLatticeTest.testBasic1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="dmplay-java.test" />
+    <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" value="ItemsetLatticeTest" />
+    <option name="METHOD_NAME" value="testBasic1" />
+    <option name="TEST_OBJECT" value="method" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

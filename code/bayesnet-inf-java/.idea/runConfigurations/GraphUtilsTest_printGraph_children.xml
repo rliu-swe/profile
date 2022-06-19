@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GraphUtilsTest.printGraph_children" type="JUnit" factoryName="JUnit">
+    <module name="inf.test" />
+    <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" value="GraphUtilsTest" />
+    <option name="METHOD_NAME" value="printGraph_children" />
+    <option name="TEST_OBJECT" value="method" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
