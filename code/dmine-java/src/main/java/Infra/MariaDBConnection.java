@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 
 /**
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class MariaDBConnection implements Connection {
 

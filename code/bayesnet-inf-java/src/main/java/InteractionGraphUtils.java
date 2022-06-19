@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * Utils for InteractionGraphs
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class InteractionGraphUtils {
 

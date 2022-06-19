@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 /**
  * Max-pattern operations and utiltiies.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class MaxPatterns {
 

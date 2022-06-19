@@ -7,7 +7,7 @@ import java.util.*;
  * An Elimination Tree re-uses the same Node defined for a Graph as its internal nodes. Since all Nodes in an Elim-Tree
  * are connected, the map {@code neighbors} is enough to track all Node's of an Elim-Tree.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class EliminationTree {
     private Map<Node, List<Node>> neighbors = new LinkedHashMap<>();

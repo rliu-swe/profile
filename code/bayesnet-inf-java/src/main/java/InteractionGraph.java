@@ -5,7 +5,7 @@ import java.util.*;
  * attached and a Factor attached as well. Discrete Variables are contained in the Factors attached to the Nodes of the
  * given BN graph.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class InteractionGraph {
     private Set<DiscreteVariable> nodes = new LinkedHashSet<>();

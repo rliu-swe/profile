@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Candidate generation methods for itemssets (patterns) and sequential itemsets (sequential patterns).
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class CandidateGeneration {
 

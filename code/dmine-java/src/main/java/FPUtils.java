@@ -1,7 +1,7 @@
 /**
  * Utils for frequent patterns.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class FPUtils {
 

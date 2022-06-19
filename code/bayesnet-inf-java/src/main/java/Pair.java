@@ -4,7 +4,7 @@ import java.util.Objects;
 /**
  * Standard Pair utility object.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class Pair<L, R> {
     public final L left;

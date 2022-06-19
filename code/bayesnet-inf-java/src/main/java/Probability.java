@@ -8,7 +8,7 @@ import java.util.List;
  * Variables should *not* repeat in vars/cond_vars & insts. Ie, if a variable is instanced (e.g., c=T), then it should not
  * appear in either vars or cond_vars.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public abstract class Probability {
     private List<DiscreteVariable> vars = new ArrayList<>();

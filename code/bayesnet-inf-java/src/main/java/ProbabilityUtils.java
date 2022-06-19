@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 /**
  * Operations on Probability objects.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class ProbabilityUtils {
 

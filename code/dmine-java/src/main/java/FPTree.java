@@ -8,7 +8,7 @@ import java.util.Map;
  * This insertion order is imposed by the caller, but once passed to the FPTree for construction, the order given is
  * fixed into the FP-tree.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class FPTree {
 

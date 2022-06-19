@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
  * F-list is:  (most frequent) e c a d c (least frequent):
  *          'a' but not 'd', 'c' but not 'a', 'd', 'e' but not 'a', 'd', 'c'.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class Closet {
     private Supplier<Collection<Set<Integer>>> data_supp;

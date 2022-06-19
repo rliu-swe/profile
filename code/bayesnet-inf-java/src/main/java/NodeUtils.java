@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 /**
  * Utilities for Nodes of the graph.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class NodeUtils {
 

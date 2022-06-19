@@ -7,7 +7,7 @@ import java.sql.Statement;
 /**
  * A db connection.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public interface Connection {
 

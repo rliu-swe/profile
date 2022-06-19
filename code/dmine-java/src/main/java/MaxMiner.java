@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
  * max pattern exists, and it skips (the effort of) counting the support of the original li candidates. Thus, MaxMiner
  * produces a support count of only the max-patterns.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class MaxMiner {
     private Supplier<Collection<Set<Integer>>> data_supp;

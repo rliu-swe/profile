@@ -5,7 +5,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 
 /**
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public abstract class NameList {
 

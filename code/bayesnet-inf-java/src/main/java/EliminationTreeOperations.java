@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Operations on/for Elimination Trees.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class EliminationTreeOperations {
 

@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * Utilties for converting/outputting as a GraphViz Dot format.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class DotUtils {
 

@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * Utilties related to Closed Patterns for the Closet algorithm.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class ClosetUtils {
 

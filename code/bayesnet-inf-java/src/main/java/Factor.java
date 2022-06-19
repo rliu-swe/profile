@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
  * Internally, the Factor class represents rows as indices over the given variable order:
  * for ex:  Row 7 for a (binary, ternary, binary)-variables would be [0,2,1]
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class Factor {
 

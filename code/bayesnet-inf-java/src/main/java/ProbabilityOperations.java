@@ -5,7 +5,7 @@ import java.util.Set;
 /**
  * Methods for various computations on discrete Probability distribution.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class ProbabilityOperations {
 

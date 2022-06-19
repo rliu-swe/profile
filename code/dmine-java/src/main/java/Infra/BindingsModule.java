@@ -3,7 +3,7 @@ package Infra;
 import com.google.inject.AbstractModule;
 
 /**
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class BindingsModule extends AbstractModule {
 

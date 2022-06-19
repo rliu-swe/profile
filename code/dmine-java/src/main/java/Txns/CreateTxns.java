@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Create test txns.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class CreateTxns {
 

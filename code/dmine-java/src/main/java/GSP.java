@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 /**
  * GSP is the Apriori-style (level-wise) algorithm for sequential pattern-mining.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class GSP {
     private Supplier<Collection<List<Set<Integer>>>> data_supp;

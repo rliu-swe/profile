@@ -5,7 +5,7 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * Items.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public enum Items {
     Apple("apple", 0.50),

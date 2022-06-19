@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 /**
  * Operations on Interaction Graphs
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class InteractionGraphOperations {
 

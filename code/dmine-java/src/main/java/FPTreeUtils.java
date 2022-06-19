@@ -6,7 +6,7 @@ import java.util.function.Function;
 /**
  * Utilities for FP-Tree's and FPGrowth.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class FPTreeUtils {
 

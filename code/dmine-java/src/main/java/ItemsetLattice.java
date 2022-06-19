@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
  *      from different different supersets: ex: {1,3} from {1,3,5,7} and {1,3,6,7}. The solution to this is a 'seen'
  *      map, but then instead of recursive traversal, might as well do iterative with an explicit stack.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class ItemsetLattice {
 

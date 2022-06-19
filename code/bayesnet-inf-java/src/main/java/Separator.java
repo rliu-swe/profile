@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * A Separator is a set of Discrete Variables.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class Separator implements Iterable<DiscreteVariable> {
 

@@ -5,7 +5,7 @@ import java.util.Set;
 /**
  * A graph is just a collection of Nodes.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class Graph {
     private Set<Node> nodes = new LinkedHashSet<>();

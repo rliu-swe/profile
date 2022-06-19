@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Factor Elimination Algorithms for Bayesian Networks.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class FactorElimination {
 

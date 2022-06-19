@@ -5,7 +5,7 @@ import java.util.function.BiConsumer;
 /**
  * Contains the test graphs.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
 */
 public class TestGraphs {
 

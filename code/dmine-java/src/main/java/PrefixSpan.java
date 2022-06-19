@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  * An implementation of the PrefixSpan algorithm. The PrefixSpan algorithm recursively mines the projected databases
  * to count the frequent patterns.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class PrefixSpan {
 

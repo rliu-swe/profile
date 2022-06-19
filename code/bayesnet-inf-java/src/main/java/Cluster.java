@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * A cluster is a set of Discrete Variables.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class Cluster implements Iterable<DiscreteVariable> {
     private Set<DiscreteVariable> vars;

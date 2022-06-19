@@ -4,7 +4,7 @@ import java.util.*;
  * A JoinTree is a type of Elimination Tree where every node is a cluster of variables in the graph, compared to the
  * typical elimination-tree where every node corresponds to just a single variable in the graph.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class JoinTree {
     public Map<Cluster, Set<Cluster>> neighbors = new LinkedHashMap<>();

@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 /**
  * Utilities for graphs.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class GraphUtils {
 

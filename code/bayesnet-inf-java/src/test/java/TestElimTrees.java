@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Contains elimination trees for testing.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
 */
 public class TestElimTrees {
 

@@ -8,7 +8,7 @@ import static java.util.stream.Collectors.toList;
 /**
  * Implements Variable Elimination.
  *
- * @author rliu 03/22
+ * Author: Nurrachman Liu   03/22
  */
 public class VariableElimination {
 

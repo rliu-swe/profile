@@ -7,7 +7,7 @@ import java.util.Objects;
  * Optionally, names can be provided for the levels, but this is only for external display. Internally, the raw
  * integer indices for levels will still be used.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class DiscreteVariable {
 

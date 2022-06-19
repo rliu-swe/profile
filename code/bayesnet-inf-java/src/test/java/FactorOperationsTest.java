@@ -7,7 +7,7 @@ import java.util.Map;
 
 
 /**
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 class FactorOperationsTest {
 

@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
  * itemsets. When all dependencies of a k-length itemset have been satisfied (a path exists from {} to it through only
  * satisfied (ie, frequent) itemsets, then its counting can begin).
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class DIC {
 

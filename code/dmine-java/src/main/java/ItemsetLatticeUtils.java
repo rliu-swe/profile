@@ -6,7 +6,7 @@ import java.util.function.Function;
 /**
  * Utils for ItemsetLattices.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class ItemsetLatticeUtils {
 

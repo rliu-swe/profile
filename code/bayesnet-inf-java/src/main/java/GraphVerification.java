@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Utilities for verifying that the graphical model (Bayesian network) is in the correct (expected) structure.
  *
- * @author rliu 2022-03
+ * Author: Nurrachman Liu   2022-03
  */
 public class GraphVerification {
 

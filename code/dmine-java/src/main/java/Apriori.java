@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
  * Performs the Apriori-algorithm on the input transactions. The transactions are expected in an input form of a
  * Map of integer keys (representing txn_id) to a list of integers (representing a list of the item.id's bought).
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class Apriori {
 

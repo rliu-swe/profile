@@ -13,7 +13,7 @@ import java.util.function.Supplier;
  * elements is encoded in the FP-list, which also serves as the linked-list headers for linked-lists that link directly to
  * all nodes of its respective element.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class FPGrowth {
 

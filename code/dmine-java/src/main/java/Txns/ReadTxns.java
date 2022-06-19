@@ -15,7 +15,7 @@ import java.util.*;
 /*
  * Reads Transactions into the appropriate objects.
  *
- * @author rliu 2022-04
+ * Author: Nurrachman Liu   2022-04
  */
 public class ReadTxns {
 
